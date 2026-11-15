@@ -1,0 +1,32 @@
+# IDE / editor
+.idea/
+.vscode/
+
+# PlatformIO
+**/.pio/
+
+# Python
+**/venv/
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+
+# Node.js
+**/node_modules/
+
+# Build artifacts
+**/build/
+**/dist/
+
+# Runtime files
+**/.pids/
+
+# Windows metadata
+*:Zone.Identifier
+
+# TLS material — never commit private keys or certificates.
+**/*.pem
+**/*.key
+**/*.crt
+**/*.p12
+**/*.pfx
